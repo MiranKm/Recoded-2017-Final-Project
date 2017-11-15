@@ -10,3 +10,7 @@ Create a news application using the guardian API and store the response in SQLit
 - Clean UI is required.
 - The app will be submitted using GitHub.
 - You can use any external library you want.
+
+## Important
+- the deadline is Wednesday Nov 22 
+- fork this repo to your github account, clone it (download it) and once you finsih push (upload) your project and send me a pull request. 
